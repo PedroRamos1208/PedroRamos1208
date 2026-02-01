@@ -6,7 +6,7 @@ Pedro Inocêncio Ramos de Souza
 ---
 
 ## Objetivo
-Estudante de Ciência da Computação em busca de oportunidades na área de Inteligência Artificial e Machine Learning, aplicando habilidades em programação, análise de dados e modelagem computacional, enquanto amplio minha experiência prática no desenvolvimento de sistemas inteligentes.
+Estudante de Ciência da Computação em busca de oportunidades na área de Inteligência Artificial, aplicando habilidades em programação, análise de dados e modelagem computacional, enquanto amplio minha experiência prática no desenvolvimento de sistemas inteligentes.
 
 ---
 
