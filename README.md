@@ -6,13 +6,17 @@ Pedro Inocêncio Ramos de Souza
 ---
 
 ## Objetivo
-Estudante de Ciência da Computação em busca de oportunidades na área de Inteligência Artificial, aplicando habilidades em programação, análise de dados e modelagem computacional, enquanto amplio minha experiência prática no desenvolvimento de sistemas inteligentes.
+Estudante de Ciência da Computação buscando oportunidades de estágio ou iniciação profissional nas áreas de Inteligência Artificial e Ciência de Dados, com foco em desenvolvimento de soluções computacionais eficientes e aprendizado contínuo.
 
 ---
 
 ## Educação
 **Bacharelado em Ciência da Computação** – Universidade Federal de Campina Grande - UFCG (2024 - 2028).
 ---
+
+## Experiência Acadêmica
+
+- Monitor de Estrutura de Dados e Algoritmos — UFCG 2025/2026
 
 ## Projetos Relevantes
 - **Comparador de eficiência de linguagens** (Java, C, Python) [🔗 Repositório](https://github.com/jota-atn/StructComparisons)
@@ -30,7 +34,9 @@ Estudante de Ciência da Computação em busca de oportunidades na área de Inte
 ---
 
 ## Habilidades
-Java | Haskell | Prolog | Python | GitHub | Estruturas de Dados | Algoritmos | Programação Orientada a Objetos.
+Linguagens: Java, Python, Haskell, Prolog.
+Conceitos: Estruturas de Dados, Algoritmos, Programação Orientada a Objetos.
+Ferramentas de desenvolvimento: GitHub | IntelliJ IDEA | VS Code | Eclipse.
 
 ---
 
