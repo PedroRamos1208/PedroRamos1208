@@ -12,11 +12,14 @@ Estudante de Ciência da Computação buscando oportunidades de estágio ou inic
 
 ## Educação
 **Bacharelado em Ciência da Computação** – Universidade Federal de Campina Grande - UFCG (2024 - 2028).
+
 ---
 
 ## Experiência Acadêmica
 
 - Monitor de Estrutura de Dados e Algoritmos — UFCG 2025/2026
+
+---
 
 ## Projetos Relevantes
 - **Comparador de eficiência de linguagens** (Java, C, Python) [🔗 Repositório](https://github.com/jota-atn/StructComparisons)
